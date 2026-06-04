@@ -8,17 +8,17 @@ This repository contains certificates earned through academic activities, skill 
 
 ### ✍️ Essay Writing Competition (Arts Fest)
 - Type: Participation Certificate
-- File: 👉 [Open Certificate](certificate/essay writing varnam sem2.jpg)
+- File: 👉 [Open Certificate](certificate/essay-writing varnam sem2.jpg)
 
 ### 💼 NASSCOM Certification
 - Type: Training / Skill Development Certificate
 - Issued by: NASSCOM
-- File: 👉 [Open Certificate](certificate/nasscom certificate sem2.jpg)
+- File: 👉 [Open Certificate](certificate/nasscom-certificate sem2.jpg)
 
 ### 🌍 Linguaskill Business
 - Type: English Language Proficiency Certificate
 - Issued by: Cambridge University Press & Assessment
-- File: 👉 [Open Certificate](certificate/linguaskill business sem2.pdf)
+- File: 👉 [Open Certificate](certificate/linguaskill-business sem2.pdf)
 
 ---
 
