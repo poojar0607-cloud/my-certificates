@@ -20,6 +20,11 @@ This repository contains certificates earned through academic activities, skill 
 - Issued by: Cambridge University Press & Assessment
 - File: 👉 [Open Certificate](certificate/linguaskill-business sem2.pdf)
 
+###  Internship 
+
+- Internship conducted by IEDC MITS
+  - 📄 [View Internship Certificate](certificates/Internship_Certificate.pdf)
+
 ---
 
 ## 📌 About This Repository
